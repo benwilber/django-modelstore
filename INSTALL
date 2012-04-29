@@ -1,0 +1,5 @@
+
+
+It's pretty easy.  Put the 'modelstore' directory somewhere importable
+by your app.  To make things easy, just put it at the same level
+as your settings.py.
